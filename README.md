@@ -1,2 +1,2 @@
-# grammar_scoring_audio
+# Readme
 This repository contains the notebook for a Kaggle competition in which the objective was to develop a Grammar Scoring Engine for spoken data samples.
